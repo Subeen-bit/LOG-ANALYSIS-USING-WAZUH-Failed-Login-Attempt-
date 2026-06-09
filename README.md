@@ -22,6 +22,8 @@ These logs are forwarded in real time to the Wazuh manager. The wazuh manager an
 
 Procedure:
 
+https://github.com/Subeen-bit/LOG-ANALYSIS-USING-WAZUH-Failed-Login-Attempt-/blob/main/Screenshot%202026-04-27%20233255.png
+
 `su root`
 
 A failed login attempt was simulated using the command sudo su and incorrect password was entered will generate authentication failures.
