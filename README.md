@@ -30,6 +30,8 @@ A failed login attempt was simulated using the command sudo su and incorrect pas
 
 Log generation:
 
+https://github.com/Subeen-bit/LOG-ANALYSIS-USING-WAZUH-Failed-Login-Attempt-/blob/main/Screenshot%202026-06-09%20123522.png
+
 Detection in Wazuh:
 The Wazuh dashboard detected these events and displayed alerts with details such as:
 
